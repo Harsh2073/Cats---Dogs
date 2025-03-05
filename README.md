@@ -17,3 +17,7 @@ Dataset:https://www.kaggle.com/c/dogs-vs-cats/data
 - SVM Model Training: Train an SVM model with different kernels (linear, RBF, etc.).
 - Evaluation: Compute accuracy, confusion matrix, and classification report.
 - Prediction: Classify new images as either a cat or a dog.
+
+# 🚀 Installation & Usage
+
+You can run this project in Jupiter notebook.
